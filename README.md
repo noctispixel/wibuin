@@ -1,4 +1,4 @@
 # wibuin
 
 
-<h1>Tugas Pemrograman Berbasis Website</h1>
+<h2>Tugas Pemrograman Berbasis Website, membuat landing page</h2>
